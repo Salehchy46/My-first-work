@@ -47,3 +47,8 @@ a :hover {
   color: black;
   size: 6px;
 }
+
+.blog {
+  background-color: antiquewhite;
+  padding: 20px;
+}
